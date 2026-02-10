@@ -57,25 +57,37 @@ export default function Footer() {
             </ul>
           </div>
 
+{/* Contact Info */}
+<div className="md:col-span-3">
+  <h3 className="text-orange-500 font-medium tracking-widest uppercase text-xs mb-6">
+    Visit Us
+  </h3>
 
-          {/* Contact Info */}
-          <div className="md:col-span-3">
-            <h3 className="text-orange-500 font-medium tracking-widest uppercase text-xs mb-6">Visit Us</h3>
-            <div className="text-stone-300 space-y-4 font-light">
-              <p className="flex items-start gap-3">
-                <span className="text-orange-600">📍</span>
-                80 Feet Rd, near MCM hospital, Shiv Nagar, Niwai, Rajasthan 304021
-              </p>
-              <p className="flex items-center gap-3">
-                <span className="text-orange-600">📞</span>
-                +91 9982233323
-              </p>
-              <p className="flex items-center gap-3">
-                <span className="text-orange-600">✉️</span>
-                harji@aditirestaurant.com
-              </p>
-            </div>
-          </div>
+  <div className="text-stone-300 space-y-4 font-light">
+    {/* Restaurant Address */}
+    <p className="flex items-start gap-3">
+      <span className="text-orange-600">📍</span>
+      80 Feet Rd, near MCM hospital, Shiv Nagar, Niwai, Rajasthan 304021
+    </p>
+
+    {/* Owner Permanent Address */}
+    <p className="flex items-start gap-3">
+      <span className="text-orange-600">🏠</span>
+      124, Jatlao, PO: Gungorad, DIST: Sawai Madhopur, Rajasthan - 322023
+    </p>
+
+    <p className="flex items-center gap-3">
+      <span className="text-orange-600">📞</span>
+      +91 9982233323
+    </p>
+
+    <p className="flex items-center gap-3">
+      <span className="text-orange-600">✉️</span>
+      harji@aditirestaurant.com
+    </p>
+  </div>
+</div>
+
         </div>
 
         {/* Newsletter - Elegant Overlay Style */}
