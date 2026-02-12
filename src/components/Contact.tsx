@@ -62,20 +62,26 @@ export default function Contact() {
                   </div>
                 </div>
 
-                {/* Phone */}
-                <div className="flex items-start gap-4 group">
-                  <div className="w-12 h-12 rounded-2xl bg-orange-50 flex items-center justify-center text-orange-600 group-hover:bg-orange-600 group-hover:text-white transition-all">
-                    <Phone size={20} />
-                  </div>
-                  <div>
-                    <p className="text-xs font-bold text-stone-400 uppercase tracking-widest">
-                      Call Anytime
-                    </p>
-                    <p className="text-stone-800 font-medium">
-                      +91 8209194046
-                    </p>
-                  </div>
-                </div>
+               {/* Phone */}
+<div className="flex items-start gap-4 group">
+  <div className="w-12 h-12 rounded-2xl bg-orange-50 flex items-center justify-center text-orange-600 group-hover:bg-orange-600 group-hover:text-white transition-all">
+    <Phone size={20} />
+  </div>
+  <div>
+    <p className="text-xs font-bold text-stone-400 uppercase tracking-widest">
+      Call Anytime
+    </p>
+
+    <p className="text-stone-800 font-medium">
+      +91 9829768508
+    </p>
+
+    <p className="text-stone-800 font-medium">
+      +91 8209194046
+    </p>
+  </div>
+</div>
+
 
                 {/* Restaurant Location */}
                 <div className="flex items-start gap-4 group">

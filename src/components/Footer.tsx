@@ -76,6 +76,13 @@ export default function Footer() {
       124, Jatlao, PO: Gungorad, DIST: Sawai Madhopur, Rajasthan - 322023
     </p>
 
+    {/* New Phone Number */}
+    <p className="flex items-center gap-3">
+      <span className="text-orange-600">📞</span>
+      +91 9829768508
+    </p>
+
+    {/* Existing Phone Number */}
     <p className="flex items-center gap-3">
       <span className="text-orange-600">📞</span>
       +91 8209194046
@@ -87,6 +94,7 @@ export default function Footer() {
     </p>
   </div>
 </div>
+
 
         </div>
 
