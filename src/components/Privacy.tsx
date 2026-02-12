@@ -84,7 +84,7 @@ export default function Privacy() {
                       NAMO BAI MEENA
                     </p>
                     <p className="flex items-center gap-3 text-sm">
-                      <span className="text-orange-600">✉</span> support@aditirestaurant.com
+                      <span className="text-orange-600">✉</span>  unacademyunacademy05@gmail.com
                     </p>
                     <p className="flex items-center gap-3 text-sm leading-relaxed">
                       <span className="text-orange-600">📍</span>  80 Feet Rd, near MCM hospital, Shiv Nagar,  Rajasthan 304021, India

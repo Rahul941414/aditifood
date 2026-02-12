@@ -57,7 +57,7 @@ export default function Contact() {
                       Email Us
                     </p>
                     <p className="text-stone-800 font-medium">
-                      harjimeena06@gmail.com
+                       unacademyunacademy05@gmail.com
                     </p>
                   </div>
                 </div>
@@ -72,7 +72,7 @@ export default function Contact() {
                       Call Anytime
                     </p>
                     <p className="text-stone-800 font-medium">
-                      +91 9982233323
+                      +91 8209194046
                     </p>
                   </div>
                 </div>

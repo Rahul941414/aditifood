@@ -78,12 +78,12 @@ export default function Footer() {
 
     <p className="flex items-center gap-3">
       <span className="text-orange-600">📞</span>
-      +91 9982233323
+      +91 8209194046
     </p>
 
     <p className="flex items-center gap-3">
       <span className="text-orange-600">✉️</span>
-      harji@aditirestaurant.com
+      unacademyunacademy05@gmail.com
     </p>
   </div>
 </div>
